@@ -1,2 +1,2 @@
 # Algorithms-And-Data-Structures
-University classes in C++ from Algorithms and Data Structures course.
+Applications are related to basic and advanced data structures and algorithms.
